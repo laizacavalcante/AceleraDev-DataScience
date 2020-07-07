@@ -14,13 +14,13 @@ O AceleraDev Data Science é um programa de formação de profissionais da área
 
 **Segundo módulo**
 
-*  [Introdução a Ciência de dados]()
+*  [Introdução a Ciência de dados](https://github.com/cavalcante-l/AceleraDev-DataScience/tree/master/Semana%202)
 
 **Terceiro módulo**
 
-*  [Manipulação de dados e análise exploratória]()
+*  [Manipulação de dados e análise exploratória](https://github.com/cavalcante-l/AceleraDev-DataScience/tree/master/Semana%203)
 *  [Desenvolvimento de aplicações no Streamlit](https://github.com/cavalcante-l/streamlit_olist)
 
 **Quarto módulo**
 
-*  [Funções de Probabilidade]()
+*  [Funções de Probabilidade](https://github.com/cavalcante-l/AceleraDev-DataScience/tree/master/Semana%204)
