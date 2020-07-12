@@ -27,4 +27,4 @@ O AceleraDev Data Science é um programa de formação de profissionais da área
 
 **Quinto módulo**
 
-*  [Teste de hipóteses](https://github.com/cavalcante-l/AceleraDev-DataScience/tree/master/Semana%204)
+*  [Teste de hipóteses](https://github.com/cavalcante-l/AceleraDev-DataScience/blob/master/Semana%205/desafio/main.ipynb)
