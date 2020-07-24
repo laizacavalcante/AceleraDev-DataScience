@@ -32,3 +32,7 @@ O AceleraDev Data Science é um programa de formação de profissionais da área
 **Sexto módulo**
 
 *  [Redução de dimensionalidade e seleção de variáveis](https://github.com/cavalcante-l/AceleraDev-DataScience/blob/master/Semana%206/desafio/main.ipynb)
+
+**Sétimo módulo**
+
+*  [Redução de dimensionalidade e seleção de variáveis 2](https://github.com/cavalcante-l/AceleraDev-DataScience/blob/master/Semana%207/main.ipynb)
