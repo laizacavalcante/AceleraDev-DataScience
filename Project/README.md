@@ -11,7 +11,9 @@ Além disso, sua solução deve ser agnóstica ao usuário. Qualquer usuário co
 Para o desafio, deverão ser consideradas as seguintes bases:
 
 **Portfolio 1**: Ids dos clientes da empresa 1;
+
 **Portfolio 2**: Ids dos clientes da empresa 2;
+
 **Portfolio 3**: Ids dos clientes da empresa 3.
 
 Obs: todas as empresas(ids) dos portfolios estão contidos no Mercado(base de população).
