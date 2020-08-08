@@ -40,3 +40,7 @@ O AceleraDev Data Science é um programa de formação de profissionais da área
 **Oitavo módulo**
 
 *  [Previsão das notas de matemática do ENEM 2016](https://github.com/cavalcante-l/AceleraDev-DataScience/tree/master/Semana%208)
+
+**Nono módulo**
+
+*  [Classificação dos estudantes que fizeram o ENEM 2016 como treino](https://github.com/cavalcante-l/AceleraDev-DataScience/tree/master/Semana%209)
